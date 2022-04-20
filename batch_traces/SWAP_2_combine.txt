@@ -1,0 +1,33 @@
+Already connected.
+Transaction sent: [0;1;34m0x1316a1bac546e15e8ed043fbf52dc8cca339c09eacda96fc64ab29d74ff96841[0;m
+  Gas price: [0;1;34m0.0[0;m gwei   Gas limit: [0;1;34m12000000[0;m   Nonce: [0;1;34m1[0;m
+  RariFuseAllocator.deallocate confirmed   Block: [0;1;34m14618561[0;m   Gas used: [0;1;34m416564[0;m ([0;1;34m3.47%[0;m)
+
+Transaction sent: [0;1;34m0xc4a50c3fc9cc752ab57befd53da04dc1e475a4d723a13b12e5dfd8c591284301[0;m
+  Gas price: [0;1;34m0.0[0;m gwei   Gas limit: [0;1;34m12000000[0;m   Nonce: [0;1;34m1[0;m
+  Dai.mint confirmed   Block: [0;1;34m14618562[0;m   Gas used: [0;1;34m51701[0;m ([0;1;34m0.43%[0;m)
+
+Transaction sent: [0;1;34m0xf47d07cef2f550cc3def8daf012635f311d4775e07ddf5b590835f19c932c8be[0;m
+  Gas price: [0;1;34m0.0[0;m gwei   Gas limit: [0;1;34m12000000[0;m   Nonce: [0;1;34m2[0;m
+  OlympusTreasury.enable confirmed   Block: [0;1;34m14618563[0;m   Gas used: [0;1;34m89705[0;m ([0;1;34m0.75%[0;m)
+
+Transaction sent: [0;1;34m0x056b4915b3fe455afb025518bd008bbb72c6aefadcb3ae6cf86603be36a36c56[0;m
+  Gas price: [0;1;34m0.0[0;m gwei   Gas limit: [0;1;34m12000000[0;m   Nonce: [0;1;34m3[0;m
+  TreasuryExtender.returnFundsToTreasury confirmed   Block: [0;1;34m14618564[0;m   Gas used: [0;1;34m118205[0;m ([0;1;34m0.99%[0;m)
+
+Treasury DAI balance: 116034167.84064898
+
+Transaction sent: [0;1;34m0x4568d1abb72804df14b90d1f8f5cc13e8ebbe9ff786ecabd9d00f9e90ea305bb[0;m
+  Gas price: [0;1;34m0.0[0;m gwei   Gas limit: [0;1;34m12000000[0;m   Nonce: [0;1;34m4[0;m
+  OlympusTreasury.manage confirmed   Block: [0;1;34m14618565[0;m   Gas used: [0;1;34m74056[0;m ([0;1;34m0.62%[0;m)
+
+Transaction sent: [0;1;34m0x24c1610b161afe50981fc1ded9e3e93621c43335133846d59c0814d32dedf32d[0;m
+  Gas price: [0;1;34m0.0[0;m gwei   Gas limit: [0;1;34m12000000[0;m   Nonce: [0;1;34m5[0;m
+  Dai.approve confirmed   Block: [0;1;34m14618566[0;m   Gas used: [0;1;34m44070[0;m ([0;1;34m0.37%[0;m)
+
+Transaction sent: [0;1;34m0xcff5daa19ace6baee1d690508670c1c5d5867d25e954bcc292821b238e75333f[0;m
+  Gas price: [0;1;34m0.0[0;m gwei   Gas limit: [0;1;34m12000000[0;m   Nonce: [0;1;34m6[0;m
+  FixedPricePSM.mint confirmed   Block: [0;1;34m14618567[0;m   Gas used: [0;1;34m120864[0;m ([0;1;34m1.01%[0;m)
+
+Treasury got... 50000000.0 FEI
+
